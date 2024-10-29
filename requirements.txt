@@ -1,0 +1,6 @@
+SpeechRecognition~=3.11.0
+Flask~=3.0.3
+redis~=5.0.8
+SQLAlchemy~=2.0.32
+openai~=0.28.0
+pydantic~=2.8.2
